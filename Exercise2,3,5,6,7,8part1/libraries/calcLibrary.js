@@ -1,3 +1,4 @@
+//Same as in the logLibrary.js file, it is convention to use Pascal Case for class names in JavaScript
 const logLibrary = require('./logLibrary')
 const logger = new logLibrary()
 
